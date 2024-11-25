@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/revelacion.github.io/static/css/main.9aa10109.css",
+    "main.js": "/revelacion.github.io/static/js/main.e591337a.js",
+    "static/js/453.009f0766.chunk.js": "/revelacion.github.io/static/js/453.009f0766.chunk.js",
+    "static/media/bg-nubes3.png": "/revelacion.github.io/static/media/bg-nubes3.5fa73da48e225971b195.png",
+    "static/media/text.png": "/revelacion.github.io/static/media/text.fa4999fb89cad7c83424.png",
+    "static/media/whatsapp.png": "/revelacion.github.io/static/media/whatsapp.bbf171d066af08ece357.png",
+    "static/media/img2.png": "/revelacion.github.io/static/media/img2.6b58e93173b0f87715ef.png",
+    "static/media/location.png": "/revelacion.github.io/static/media/location.fcd5d6f9d1c969109907.png",
+    "index.html": "/revelacion.github.io/index.html",
+    "main.9aa10109.css.map": "/revelacion.github.io/static/css/main.9aa10109.css.map",
+    "main.e591337a.js.map": "/revelacion.github.io/static/js/main.e591337a.js.map",
+    "453.009f0766.chunk.js.map": "/revelacion.github.io/static/js/453.009f0766.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aa10109.css",
+    "static/js/main.e591337a.js"
+  ]
+}
